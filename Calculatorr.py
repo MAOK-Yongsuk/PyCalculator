@@ -5,7 +5,7 @@ skyb2 = {'size':(9,1), 'font':('FC Lamoon',30),'button_color':("white","#56CBDB"
 bblu = {'size':(4,1), 'font':('FC Lamoon',30),'button_color':("white","#1E2435")}
 
 layout = [
-	[sg.Text('PyCalculator',size=(50,3),justification='right', background_color='#262834',text_color='white',font=('FC Lamoon',14,'bold'))],
+	[sg.Text('PyCalculator-by-Maok',size=(50,3),justification='right', background_color='#262834',text_color='white',font=('FC Lamoon',14,'bold'))],
 	[	sg.Text('=',text_color='#56CBDB',background_color='#262834',font=('FC Lamoon',50)),
 		sg.Text('0.000',size=(50,1),justification='right',text_color='white',background_color='#262834',font=('FC Lamoon',40,'bold'),key = "-DISPLAY-")],
     [sg.HSep()],    
