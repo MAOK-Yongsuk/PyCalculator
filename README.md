@@ -1,4 +1,5 @@
 # PyCalculator
 
-calculator by python 
-ref: Izzy Analytics
+Calculator by Python
+
+Ref: Izzy Analytics
